@@ -29,3 +29,7 @@ func main() {
 }
 
 //teste
+
+func publish() {
+	fmt.Println("publish")
+}
